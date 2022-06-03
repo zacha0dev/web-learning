@@ -1,0 +1,61 @@
+
+/* Global Styling */
+* { }
+html { }
+body { }
+h1 { }
+h2 { }
+a { }
+p { }
+
+/* Class Styling */ 
+
+/* Call to Action */ 
+.call-to-action { }
+.call-to-action-content-wrapper { }
+
+/* Navigation Menu */ 
+.navigation-menu { }
+.navigation-menu-content-wrapper { }
+.navigation-menu-site-logo { }
+.navigation-menu-navigation-links { }
+.navigation-links { }
+.navigation-menu-shopping-links { }
+.shopping-links { }
+
+/* Absolute Navigation Option */ 
+.navigation-buttons { }
+.navigation-buttons-content-wrapper { }
+
+/* Website Banner */ 
+.banner { }
+.banner-content-wrapper { }
+.banner-subject-box { }
+.banner-subject-box-row-one { }
+.banner-subject-box-row-two { }
+.banner-subject-box-row-three { }
+.banner-subject-box-row-three-left { } /* I should look into changing the name from left/right - because in responsive design left or right could change to top/bottom */ 
+.banner-subject-box-row-three-left-subrow-one { }
+.banner-subject-box-row-three-left-subrow-two { a}
+.banner-subject-box-row-three-right { }
+.banner-subject-box-row-four { }
+.banner-subject-box-row-five { }
+
+/* Product Marketing Section */
+.body { }
+.body-product-section-one { }
+.body-product-section-two { }
+.body-product-section-three { }
+
+/* Footer */ 
+.footer { }
+.footer-content-wrapper { }
+.footer-content { }
+.footer-content-box-socials { }
+.footer-content-box-socials-logo { }
+.footer-content-box-socials-icons { }
+.footer-content-box-nav-links { }
+.footer-nav-link { }
+.site-data { }
+.site-data-brand { }
+.site-data-content-policy-links { }
